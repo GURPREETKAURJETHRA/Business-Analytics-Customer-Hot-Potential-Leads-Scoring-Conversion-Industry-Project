@@ -49,7 +49,7 @@ Another thing that you also need to check out for are the levels present in the 
 - ROC Curve
 - Prediction on test set
 - Precision- Recall Trade off
-- Statical Analysis
+- Statistical Analysis
 - Feature Importance Determination
 - Hot Leads Determination
 - Conclusion & Recommendations
