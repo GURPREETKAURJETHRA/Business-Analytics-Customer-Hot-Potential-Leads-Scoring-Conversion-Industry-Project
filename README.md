@@ -1,4 +1,4 @@
-# Lead-Scoring_CASE-STUDY-Logistic-Regression
+# Business_Analytics_Customer_Hot_Leads Scoring Prediction & Conversion
 
 ## Problem Statement -
 
@@ -54,10 +54,9 @@ Another thing that you also need to check out for are the levels present in the 
 - Hot Leads Determination
 - Conclusion & Recommendations
 
-## Submission details - Files related to Projects 
+### Acknowledgement:
+This Project Assignment was part of Curriculum during **EPGP-DataScience AI-ML (Deep Learning Spec) from IIIT-B.**
 
-- Lead Scoring DSC43 GurpreetK_ShivamS : The python file showing coding and data analysis
-- Subjective Questions Lead Scoring_GurpreetK_ShivamS : Subjective Questions answers
-- PPT LEAD SCORING GURPREETK_SHIVAMS : Final Presentation
-- SUMMARY LEAD SCORING GURPREETK_SHIVAMS : Summary on what's done in the entire Project
+***@All Rights Reserved*** [**Gurpreet Kaur Jethra**](https://github.com/GURPREETKAURJETHRA)
+
 
